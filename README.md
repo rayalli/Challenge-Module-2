@@ -19,5 +19,5 @@ o	For a novice programmer refactoring can imply a new challenge, from the standp
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
- The most important pro in refactoring the code is that the run time is far much lower. For the original code the run time was between 0.87 and 0.89 seconds. With the new code the run time is between 0.20 to 0.21 seconds. For this specific application (stock analysis). 
+ The most important pro in refactoring the code is that the run time is far much lower. For the original code the run time was between 0.87 and 0.89 seconds. For this specific    application (stock analysis), with the new code run time is between 0.20 to 0.21 seconds.  
 
